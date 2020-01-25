@@ -1,8 +1,4 @@
 ﻿using OpenQA.Selenium;
-using System;
-using System.Collections.Generic;
-using System.Text;
-using ClassifiedAds.WebMVC.AutomationTests;
 
 namespace ClassifiedAds.WebMVC.AutomationTests.Pages
 {

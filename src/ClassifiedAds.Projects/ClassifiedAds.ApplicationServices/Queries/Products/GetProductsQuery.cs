@@ -1,9 +1,7 @@
 ﻿using ClassifiedAds.DomainServices.Entities;
 using ClassifiedAds.DomainServices;
-using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 
 namespace ClassifiedAds.ApplicationServices.Queries.Products
 {

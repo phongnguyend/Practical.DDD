@@ -1,5 +1,3 @@
-using System;
-
 namespace ClassifiedAds.WebMVC.Models
 {
     public class ErrorViewModel

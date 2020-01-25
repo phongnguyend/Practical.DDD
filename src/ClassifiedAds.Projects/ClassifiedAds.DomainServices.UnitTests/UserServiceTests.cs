@@ -1,6 +1,5 @@
 using ClassifiedAds.CrossCuttingConcerns.Exceptions;
 using ClassifiedAds.DomainServices.Entities;
-using ClassifiedAds.DomainServices;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Moq;
 using System;

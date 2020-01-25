@@ -1,7 +1,5 @@
 ﻿using Microsoft.AspNetCore;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.Extensions.Logging;
-using Microsoft.Extensions.Logging.EventLog;
 using Serilog;
 
 namespace ClassifiedAds.WebAPI

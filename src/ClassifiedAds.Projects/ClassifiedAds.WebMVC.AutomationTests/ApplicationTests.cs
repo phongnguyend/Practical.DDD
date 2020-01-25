@@ -1,6 +1,4 @@
 using ClassifiedAds.WebMVC.AutomationTests.Navigation;
-using ClassifiedAds.WebMVC.AutomationTests.Pages;
-using System;
 using System.Threading;
 using Xunit;
 
@@ -25,7 +23,7 @@ namespace ClassifiedAds.WebMVC.AutomationTests
             Thread.Sleep(2000);
             consentPage.Confirm();
             Thread.Sleep(2000);
-           
+
             navigator.HomePage();
             Thread.Sleep(2000);
 

@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace ClassifiedAds.WebMVC.AutomationTests
+﻿namespace ClassifiedAds.WebMVC.AutomationTests
 {
     public class Configuration
     {

@@ -1,10 +1,5 @@
 ﻿using ClassifiedAds.WebMVC.AutomationTests.Pages;
 using OpenQA.Selenium;
-using OpenQA.Selenium.Interactions;
-using System;
-using System.Collections.Generic;
-using System.Text;
-using System.Threading;
 
 namespace ClassifiedAds.WebMVC.AutomationTests.Navigation
 {

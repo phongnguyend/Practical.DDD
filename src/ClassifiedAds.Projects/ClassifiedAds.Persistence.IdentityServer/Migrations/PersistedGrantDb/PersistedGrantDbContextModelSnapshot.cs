@@ -4,7 +4,6 @@ using IdentityServer4.EntityFramework.DbContexts;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
-using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace ClassifiedAds.Persistence.IdentityServer.Migrations.PersistedGrantDb
 {

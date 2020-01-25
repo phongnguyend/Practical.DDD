@@ -1,6 +1,5 @@
 using ClassifiedAds.DomainServices.Entities;
 using ClassifiedAds.CrossCuttingConcerns.ExtensionMethods;
-using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
 using System.Net.Http;
